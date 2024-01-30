@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        ".C": "cpp",
+        "SI.C": "cpp",
+        "ACII.C": "cpp",
+        "SHORT.C": "cpp",
+        "threedigitNO.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
